@@ -3,24 +3,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>Cyberpunk Website</title>
+    <script defer src="script.js"></script>
+
+    <title>Website</title>
 </head>
-
-<script>
-
-
-</script>
 
 <body>
 
-    <div class="login-section">
-        <h3>Input Username & Password</h3>
-        <input class="username" type="text" name="username">
-        <input type="password" name="Password" id="password">
-    </div>
+    <form id="login-section">
+        <img id="avatar-login" src="images/avatar.png" alt="Avatar">
+        <input id="username" name="username" type="text" placeholder="Username">
+        <input id="password" name="password" type="password" placeholder="Password">
+        <button id="login-bttn" name="Login" type="submit" onclick="start()">Login</button>
+
+        <div id="login-error">
+            <p>Invalid username and/or password</p>
+        </div>
+    </form>
+
     
 </body>
 </html>
