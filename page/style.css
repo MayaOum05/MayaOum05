@@ -1,3 +1,14 @@
+/* CSS HEX 
+--rose: #f72585ff;
+--fandango: #b5179eff;
+--grape: #7209b7ff;
+--chrysler-blue: #560badff;
+--dark-blue: #480ca8ff;
+--zaffre: #3a0ca3ff;
+--palatinate-blue: #3f37c9ff;
+--neon-blue: #4361eeff;
+--chefchaouen-blue: #4895efff;
+--vivid-sky-blue: #4cc9f0ff; */
 body {
     font-family: 'Source Code Pro', monospace;
     background-color: #001233;
@@ -6,7 +17,7 @@ body {
 #login-section {
     max-width: 250px;
     height: 50%;
-    background-color: #bdc4d4;
+    background-color: #33415C;
     padding: 40px;
     margin: auto;
     margin-top: 30px;
@@ -46,9 +57,9 @@ body {
     margin: auto;
     border-radius: 20%;
     background-color: #0353A4;
-    font-size: 16px;
+    font-size: 18px;
     text-align: center;
-    color: #b9c0d1;
+    color: #ffffff;
 }
 
 #login-error {
@@ -60,3 +71,33 @@ body {
     color:red;
     opacity: 0;
 }
+
+/*** new page ***/
+
+.textbox {
+    overflow: hidden;
+    max-width: 50%;
+    max-height: auto;
+    background-color: #002855;
+    padding: 10px;
+    text-align: center;
+    color: #979DAC;
+    font-size: 16px;
+    margin: auto;
+    margin-top: 50%;
+    border: 3px solid #33415C;
+}
+
+#next-bttn {
+    width: 70px;
+    height: 25px;
+    margin-left: 70%;
+    color: #979DAC;
+    background-color: #0353A4;
+    border-radius: 25px;
+}
+
+#next-bttn:active{
+    background-color: #7D8597;
+}
+
