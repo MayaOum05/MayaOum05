@@ -1,17 +1,103 @@
+/* CSS HEX 
+--rose: #f72585ff;
+--fandango: #b5179eff;
+--grape: #7209b7ff;
+--chrysler-blue: #560badff;
+--dark-blue: #480ca8ff;
+--zaffre: #3a0ca3ff;
+--palatinate-blue: #3f37c9ff;
+--neon-blue: #4361eeff;
+--chefchaouen-blue: #4895efff;
+--vivid-sky-blue: #4cc9f0ff; */
 body {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    background-color: #001233;
 }
 
-.login-section {
-    width: 150px;
-    height: auto;
-    padding: 10px;
+#login-section {
+    max-width: 250px;
+    height: 50%;
+    background-color: #33415C;
+    padding: 40px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 5%;
+    display: grid;
+}
+
+
+#avatar-login {
+    width: 75%;
     margin: auto;
 }
 
 #username {
-    width: fit-content;
-    justify-content: center;
-    padding: 15px;
-    margin: 10px;
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    border-radius: 30px;
+    border-color: #001233;
+    font-size: 16px;
+    padding: 10px;
 }
+
+#password {
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    border-radius: 30px;
+    border-color: #001233;
+    font-size: 16px;
+    padding: 10px;
+}
+
+#login-bttn {
+    width: 40%;
+    height: 30px;
+    margin: auto;
+    border-radius: 20%;
+    background-color: #0353A4;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#login-error {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    color:red;
+    opacity: 0;
+}
+
+/*** new page ***/
+
+.textbox {
+    overflow: hidden;
+    max-width: 50%;
+    max-height: auto;
+    background-color: #002855;
+    padding: 10px;
+    text-align: center;
+    color: #979DAC;
+    font-size: 16px;
+    margin: auto;
+    margin-top: 50%;
+    border: 3px solid #33415C;
+}
+
+#next-bttn {
+    width: 70px;
+    height: 25px;
+    margin-left: 70%;
+    color: #979DAC;
+    background-color: #0353A4;
+    border-radius: 25px;
+}
+
+#next-bttn:active{
+    background-color: #7D8597;
+}
+
