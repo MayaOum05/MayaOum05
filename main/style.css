@@ -1,23 +1,12 @@
-/* CSS HEX 
---rose: #f72585ff;
---fandango: #b5179eff;
---grape: #7209b7ff;
---chrysler-blue: #560badff;
---dark-blue: #480ca8ff;
---zaffre: #3a0ca3ff;
---palatinate-blue: #3f37c9ff;
---neon-blue: #4361eeff;
---chefchaouen-blue: #4895efff;
---vivid-sky-blue: #4cc9f0ff; */
 body {
     font-family: 'Source Code Pro', monospace;
-    background-color: #001233;
+    background-image: linear-gradient(to bottom right, #FFADAD, #A0C4FF);
 }
 
 #login-section {
     max-width: 250px;
     height: 50%;
-    background-color: #33415C;
+    backdrop-filter: blur(10px);
     padding: 40px;
     margin: auto;
     margin-top: 30px;
@@ -49,6 +38,7 @@ body {
     border-color: #001233;
     font-size: 16px;
     padding: 10px;
+    margin-top: 5px;
 }
 
 #login-bttn {
@@ -56,10 +46,11 @@ body {
     height: 30px;
     margin: auto;
     border-radius: 20%;
-    background-color: #0353A4;
+    background-color: #D8E2DC;
     font-size: 18px;
     text-align: center;
-    color: #ffffff;
+    color: #7b6db8;
+    margin-top: 5px;
 }
 
 #login-error {
@@ -72,20 +63,20 @@ body {
     opacity: 0;
 }
 
-/*** new page ***/
+/*** new page
 
 .textbox {
     overflow: hidden;
     max-width: 50%;
     max-height: auto;
-    background-color: #002855;
+    background-color: #E8E8E4;
     padding: 10px;
     text-align: center;
-    color: #979DAC;
+    color: #111d3d;
     font-size: 16px;
+    border-radius: 10px;
     margin: auto;
-    margin-top: 50%;
-    border: 3px solid #33415C;
+    margin-top: 30%;
 }
 
 #next-bttn {
@@ -93,11 +84,51 @@ body {
     height: 25px;
     margin-left: 70%;
     color: #979DAC;
-    background-color: #0353A4;
+    background-color: #FFD7BA;
     border-radius: 25px;
 }
 
 #next-bttn:active{
-    background-color: #7D8597;
+    background-color: #FEC89A;
+}
+***/
+
+.main-body {
+    position: relative;
+    width: 70%;
+    padding: 0;
+
+}
+
+.text {
+    min-width: 300px;
+    max-width: 550px;
+    overflow: hidden;
+    color: #001233;
+    margin: auto;
+    padding: 20px;
+}
+
+.profile {
+    max-width: 200px;
+    height: 600px;
+    float: left;
+    background-image: linear-gradient(to right bottom, #FEC5BB, #D8E2DC);
+    padding: 20px;
+}
+
+.pfp {
+    width: 128px;
+    border-radius: 100px;
+    padding: 10px;
+    border: 2px  solid #BDB2FF;
+    display: flex;
+    margin: auto;
+}
+
+.prof-status {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
 }
 
