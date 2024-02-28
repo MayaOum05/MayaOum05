@@ -1,12 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5A0F7&random=false&width=435&lines=%E2%95%B0%E2%94%80%E2%96%B8+%E2%9D%9D+%40SilkySaturn)](https://git.io/typing-svg)
-  
-─── ⋆⋅☆⋅⋆ ──
+<div id="header" align="center"> 
+	<h1>Hello! I'm Maya ✌️</h1>
+</div>
 
-Currently a student attending Valencia College and working toward my A.A. After graduating, I intend on pursuing a Bachelor's in Computer Science and work as a software engineer. With time, I hope to build a career that allows me to express creativity, cultivate work relationships, and work on projects that I find interesting. :)
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNibWtnbXBnYThxMTZ3OXU2aDdoaHI3c3A3NjBqeHl1cDA0a3MzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRX1fsr9fz4ig85cjI/giphy.gif">
+</div>
 
-Programming Languages: 
-HTML, CSS, and Javascript
-Python
+<div id="badges" align="center">
+	<a href="www.linkedin.com/in/maya-oum-5712aa271">
+	<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+</div>
 
 
-─── ⋆⋅☆⋅⋆ ──
+<div>
+	<h2>👩‍💻 About Me:</h2>
+ <ul>
+	 <li>I'm a college student studying Computer Science in Florida</li>
+	 <li>I'm currently learning front-end development and building web pages for fun</li>
+	 <li>I love designing, programming, and learning new skills</li>
+	 <li>After completing my degree, I intend to work as a full-time software developer creating projects that allow me to showcase my creativity</li>
+ </ul>
+</div>
+
+<div>
+	<h2>💻 Programming Languages:</h2>
+		<img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+		<img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+		<img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+		<img width="50pc" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">(fundementals)
+</div>
+
+<div>
+	<h2>⚙️ Technologies/Frameworks:</h2>
+	<ul>
+		<li>Visual Studio Code</li>
+		<li>Github</li>
+	</ul>
+</div>
+
+
+
+
