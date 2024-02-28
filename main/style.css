@@ -1,12 +1,43 @@
+/* CSS HEX
+--mimi-pink: #ffd6ffff;
+--mauve: #e7c6ffff;
+--mauve-2: #c8b6ffff;
+--periwinkle: #b8c0ffff;
+--periwinkle-2: #bbd0ffff;
+*/
+
+.shadows-into light-regular {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
 body {
-    font-family: 'Source Code Pro', monospace;
-    background-image: linear-gradient(to bottom right, #FFADAD, #A0C4FF);
+    font-family: 'Lora', serif;
+    background-image: linear-gradient(150deg, #FFD6FF, #C8B6FF);
+}
+
+#note {
+    max-width: 250px;
+    min-width: 150px;
+    min-height: 150px;
+    background-color: #FFD6FF;
+    padding: 30px;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    border: 2px dotted#001233;
+    border-radius: 10px;
+    float: right;
+    display: flex;
 }
 
 #login-section {
+    background-color: #C8B6FF;
     max-width: 250px;
     height: 50%;
-    backdrop-filter: blur(10px);
     padding: 40px;
     margin: auto;
     margin-top: 30px;
@@ -45,12 +76,13 @@ body {
     width: 40%;
     height: 30px;
     margin: auto;
-    border-radius: 20%;
+    border-radius: 50px;
     background-color: #D8E2DC;
-    font-size: 18px;
+    font-size: 12px;
+    font-weight: bold;
     text-align: center;
-    color: #7b6db8;
-    margin-top: 5px;
+    color: #3c3269;
+    margin-top: 25px;
     padding: 0;
 }
 
@@ -76,6 +108,7 @@ body {
 .text {
     min-width: 300px;
     max-width: 550px;
+    background-color: #C8B6FF;
     overflow: hidden;
     color: #3a322d;
     margin: auto;
@@ -86,9 +119,10 @@ body {
     max-width: 200px;
     height: 600px;
     float: left;
-    background-image: linear-gradient(to right bottom, #FEC5BB, #D8E2DC);
+    background-color: #C8B6FF;
     padding: 20px;
     border-radius: 25px;
+    margin: 20px;
 }
 
 .pfp {
