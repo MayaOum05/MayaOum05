@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-	<a href="www.linkedin.com/in/maya-oum-5712aa271">
+	<a href="https://www.linkedin.com/in/maya-oum-5712aa271">
 	<img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 	<a href="https://www.instagram.com/maoydaa/">
 	<img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=black&style=for-the-badge">
