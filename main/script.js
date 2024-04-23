@@ -9,7 +9,7 @@ if (loginButton){
         const user = loginSec.username.value;
         const pass = loginSec.password.value;
 
-        if (user == "Maya" && pass == "Developer"){
+        if (user == "Maya" && pass == "CodingIsFun"){
             location.href = "page.html";
         } else {
             loginError.style.opacity = 1;

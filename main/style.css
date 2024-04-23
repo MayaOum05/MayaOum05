@@ -5,46 +5,40 @@
 --periwinkle: #b8c0ffff;
 --periwinkle-2: #bbd0ffff;
 */
-
-.shadows-into light-regular {
-    font-family: "Shadows Into Light", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
   
-
 body {
-    font-family: 'Lora', serif;
-    background-image: linear-gradient(120deg, #FFD6FF, #C8B6FF);
+    font-family: "VT323", sans-serif;
+    background-image: linear-gradient(100deg, #fddefd, #9581cf);
 }
 
 #note {
-    max-width: 250px;
+    max-width: 200px;
     min-width: 150px;
-    min-height: 150px;
+    min-height: 100px;
     background-color: #FFD6FF;
     padding: 30px;
-    font-family: "Shadows Into Light", cursive;
+    font-family: "VT323";
     font-weight: 500;
     font-size: 20px;
     text-align: center;
-    border: 2px dotted#001233;
+    border: 2px solid#001233;
     border-radius: 10px;
-    float: right;
+    box-shadow: 5px 5px #001233;
     display: flex;
 }
 
 #login-section {
-    background-color: #C8B6FF;
+    background-color: #fcdec7;
     max-width: 250px;
     height: 50%;
-    padding: 40px;
+    padding: 50px;
     margin: auto;
     margin-top: 30px;
-    border-radius: 5%;
+    border: 2px solid #1f1d27;
+    border-radius: 2%;
     display: grid;
+    box-shadow: 10px 5px #001233;
 }
-
 
 #avatar-login {
     width: 75%;
@@ -52,23 +46,25 @@ body {
 }
 
 #username {
+    font-family: "VT323";
     width: 100%;
     height: 30px;
     margin: auto;
-    border-radius: 30px;
+    border-radius: 15px;
     border-color: #001233;
-    font-size: 16px;
-    padding: 10px;
+    font-size: 1.5em;
+    padding: 15px;
 }
 
 #password {
+    font-family: "VT323";
     width: 100%;
     height: 30px;
     margin: auto;
-    border-radius: 30px;
+    border-radius: 15px;
     border-color: #001233;
-    font-size: 16px;
-    padding: 10px;
+    font-size: 1.5em;
+    padding: 15px;
     margin-top: 5px;
 }
 
@@ -78,8 +74,8 @@ body {
     margin: auto;
     border-radius: 50px;
     background-color: #D8E2DC;
-    font-size: 12px;
-    font-weight: bold;
+    font-family: "VT323";
+    font-size: 24px;
     text-align: center;
     color: #3c3269;
     margin-top: 25px;
@@ -102,41 +98,117 @@ body {
     position: relative;
     width: 70%;
     padding: 0;
-
-}
-
-.text {
-    min-width: 300px;
-    max-width: 550px;
-    background-color: #C8B6FF;
-    overflow: hidden;
-    color: #3a322d;
-    margin: auto;
-    padding: 20px;
 }
 
 .profile {
-    max-width: 200px;
-    height: 600px;
-    float: left;
-    background-color: #C8B6FF;
+    max-width: 220px;
+    height: auto;
+    float: right;
+    background-color: #fcdec7;
     padding: 20px;
-    border-radius: 25px;
+    border: 3px solid #1f1d27;
+    border-radius: 15px;
+    box-shadow: 10px 5px #1f1d27;
     margin: 20px;
 }
 
 .pfp {
     width: 128px;
-    border-radius: 100px;
     padding: 10px;
-    border: 2px  solid #BDB2FF;
+    border-radius: 50px;
     display: flex;
     margin: auto;
 }
 
+#name {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
 .prof-status {
+    font-size: 1.5em;
     margin: auto;
+    margin-top: 5px;
     text-align: center;
     padding: 10px;
+}
+
+.tools {
+    font-size: 1.3em;
+    font-weight: 150;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.likes_dislikes {
+    font-size: 1.3em;
+    display: flexbox;
+}
+
+/** card section **/
+
+
+.grid-container {
+    display: grid;
+    padding: 0;
+    gap: 30px;
+    min-width: auto;
+    margin: auto;
+}
+
+.item1 {
+    border: 3px solid #001233;
+    box-shadow: 10px 5px #001233;
+    background-color: #fcdec7;
+    padding: 10px;
+    text-align: center;
+    min-width: fit-content;
+    min-height: fit-content;
+    grid-column: 1/4;
+    grid-row: 1/3;
+    font-size: 2.5em;
+}
+
+.item2 {
+    min-width: fit-content;
+    min-height: fit-content;
+    border: 3px solid #001233;
+    box-shadow: 10px 5px #001233;
+    background-color: #FFD6FF;
+    text-align: center;
+    font-size: 2em;
+    letter-spacing: 5px;
+    grid-column: 3/4;
+}
+
+.item3 {
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+.item4 {
+    min-width: fit-content;
+    min-height: fit-content;
+    padding: 0;
+    border: 3px solid #001233;
+    box-shadow: 10px 5px #001233;
+    background-color: #FFD6FF;
+    text-align: center;
+    font-size: 2em;
+    grid-column: 1/4;
+}
+
+.item5 {
+    min-width: fit-content;
+    min-height: fit-content;
+    padding: 0;
+    border: 3px solid #001233;
+    box-shadow: 10px 5px #001233;
+    background-color: #FFD6FF;
+    text-align: center;
+    font-size: 2em;
 }
 
