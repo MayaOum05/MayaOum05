@@ -14,7 +14,6 @@
 
 </div>
 
-
 <div>
 	<h2>👩‍💻 About Me:</h2>
 
@@ -26,12 +25,14 @@
  </ul>
 </div>
 
-<div id="stats" align="Center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkysaturn&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silkysaturn&layout=compact&show_icons=true&theme=dracula)
-
- 
+<div id="learning">
+	<h2>📝 Currently Learning:</h2>
+	<ul>
+		<li>Django</li>
+		<li>React</li>
+		<li>Git</li>
+		<li>Design</li>
+	</ul>
 </div>
 
 <div>
@@ -52,7 +53,14 @@
 
 </div>
 
+<div id="stats" align="Center">
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkysaturn&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silkysaturn&layout=compact&show_icons=true&theme=dracula)
+
+</div>
 
 
 
