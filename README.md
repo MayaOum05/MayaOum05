@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-	<h1>Hello! I'm Maya ✌️</h1>
+	<h1>Hello, I'm Maya!</h1>
 </div>
 
 <div id="header" align="center">
@@ -31,7 +31,6 @@
 		<li>Django</li>
 		<li>React</li>
 		<li>Git</li>
-		<li>Design</li>
 	</ul>
 </div>
 
