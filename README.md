@@ -30,7 +30,6 @@
 	<ul>
 		<li>Django</li>
 		<li>React</li>
-		<li>Git</li>
 	</ul>
 </div>
 
