@@ -17,7 +17,7 @@
 <div>
 	<h2>👩‍💻 About Me:</h2>
 
- <p>Having grown up in the early 2000s, technology has always been an integral part of my life and something that has always existed since I was born. I picked up programming in 2022, driven by a passion for tackling real-world challenges with code. During high school, I studied Python in class and self-taught myself HTML, CSS, and Javascript. Now, as a college student, I eagerly anticipate expanding my skill set with new tools and frameworks to enhance my current programming knowledge and streamline my workflow.</p>
+ <p>Having grown up in the 2000s, technology has always been an integral part of my life and something that has always existed since I was born. I picked up programming in 2022, driven by a passion for tackling real-world challenges with code. During high school, I studied Python in class and self-taught myself HTML, CSS, and Javascript. Now, as a college student, I eagerly anticipate expanding my skill set with new tools and frameworks to enhance my current programming knowledge and streamline my workflow.</p>
  <ul>
 	 <li>I'm a college student studying Computer Science in Florida</li>
 	 <li>I'm currently learning front-end development with intentions to learn back-end.</li>
