@@ -1,85 +1,45 @@
 body {
-    font-family: "VT323", sans-serif;
-    background-color: #6b705c;
+    background-color: #212529;
+    color: #e9ecef;
+    font-family: "Source Code Pro", monospace;
+    word-spacing: 0.5em;
 }
-
-#note {
-    max-width: 200px;
-    min-width: 150px;
-    min-height: 100px;
-    background-color: #ddbea9;
-    padding: 30px;
-    font-family: "VT323";
-    font-weight: 500;
-    font-size: 20px;
+.profile-container {
+    display: block;
     text-align: center;
-    border: 2px solid#001233;
-    border-radius: 10px;
-    box-shadow: 5px 5px #001233;
-
-}
-
-#login-section {
-    background-color: #fcdec7;
-    max-width: 250px;
-    height: 50%;
-    padding: 50px;
-    margin: auto;
-    margin-top: 30px;
-    border: 2px solid #1f1d27;
-    box-shadow: 10px 5px #001233;
-}
-
-#avatar-login {
-    width: 75%;
-    margin: auto;
-}
-
-#username {
-    font-family: "VT323";
-    width: 100%;
-    height: 30px;
-    margin: auto;
-    border-radius: 15px;
-    border-color: #001233;
-    font-size: 1.5em;
-    padding: 15px;
-}
-
-#password {
-    font-family: "VT323";
-    width: 100%;
-    height: 30px;
-    margin: auto;
-    border-radius: 15px;
-    border-color: #001233;
-    font-size: 1.5em;
-    padding: 15px;
-    margin-top: 5px;
-}
-
-#login-bttn {
-    width: 40%;
-    height: 30px;
-    margin: auto;
-    border-radius: 50px;
-    background-color: #D8E2DC;
-    font-family: "VT323";
-    font-size: 24px;
-    text-align: center;
-    color: #3c3269;
-    margin-top: 25px;
     padding: 0;
 }
 
-#login-error {
-    width: 100%;
-    height: 100%;
+.grid-container {
     display: grid;
-    justify-items: center;
-    align-items: center;
-    color:red;
-    opacity: 0;
+    grid-template-columns: 8ch auto;
+    gap: 30px;
+    overflow: hidden;
 }
 
+.about-me{
+    grid-column: 1/3;
+    grid-row: 1/2;
+}
 
+.history {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.photo1{
+    max-width: 350px;
+    grid-column: 2/2;
+    grid-row: 2/2;
+}
+
+.history-2 {
+    grid-column: 1/2;
+    grid-row: 2/2;
+}
+
+.photo2 {
+    max-width: 350px;
+    grid-column: 2/2;
+    grid-row: 1/2;
+}

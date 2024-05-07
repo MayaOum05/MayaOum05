@@ -4,33 +4,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <script defer src="script.js"></script>
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-
-    <title>Maya's Blog</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+    <title>Maya Oum</title>
 </head>
-
 <body>
 
-    <div>
-        <form id="login-section">
-            <img id="avatar-login" src="images/avatar.png" alt="Avatar">
-            <input id="username" name="username" type="text" placeholder="Username">
-            <input id="password" name="password" type="password" placeholder="Password">
-            <button id="login-bttn" name="Login" type="submit" onclick="start()">Login</button>
-            <div id="login-error">
-                <p>Invalid username and/or password</p>
-            </div>
-        </form>
+    <div class="profile-container">
+        <h1 class="name">Maya Oum</h1>
+        <h2>Front-end Developer</h2>
     </div>
 
-    <div id="note">
-        <p>Username: User</p>
-        <p>Password: CodingIsFun</p>
+
+    <div class="grid-container">
+
+        <!-- Content: About Me Section-->
+        <span class="about-me">Hello 👋! I'm Maya, a computer science major at Valencia College in Orlando. I specialize in front-end web development but I hope to expand my skillset to become a full-stack developer.</span>
+
+        <!-- History-->
+        <span class="history">I began my learning journey in highschool during quarantine and quickly fell in love with creating websites and simple games from scratch. After spending a few months building static web pages, I debated on whether or not to attend college or sign up for a bootcamp. It wasn't until a few months before graduation that I decided to pursue a degree in computer science. In doing so, I have met plenty of people who specialze in various fields and have taught me so much more than I ever could have on my own .</span>
+
+        <!-- Image-->
+        <img src="images/grad.jpg" alt="Graduation Photo: Bestfriend (left), Mother, Myself, and sister (right)" class="photo1">
+
+        <!--history continued-->
+        <span class="history-2">In the present moment, I am learning python to begin my transition to back-end development and hopefulyl build a strong portfolio before my third year when I transfer to the University of Central Florida 👩‍🎓.</span>
+
+        <!--image-->
+        <img src="images/selfie.jpg" alt="Photo of myself" class="photo2">
+
     </div>
 
-    
 </body>
 </html>
