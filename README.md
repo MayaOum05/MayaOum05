@@ -43,6 +43,7 @@
 <div>
 	<h2>⚙️ Technologies/Frameworks:</h2>
 	<ul>
+		<li>Bootstrap</li>
 		<li>Visual Studio Code</li>
 		<li>Github</li>
 		<li>Chrome DevTools</li>
