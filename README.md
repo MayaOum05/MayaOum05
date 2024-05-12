@@ -28,7 +28,7 @@
 	<h2>📝 Currently Learning:</h2>
 	<ul>
 		<li>Django</li>
-		<li>React</li>
+		<li>React.JS</li>
 	</ul>
 </div>
 
