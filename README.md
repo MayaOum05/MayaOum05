@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE1YWw2enNjbWlqeDFxcTVjNXRsNzU4YTJ3YnFtc3J1M3F4b2xnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.webp">
+	<img width="50%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE1YWw2enNjbWlqeDFxcTVjNXRsNzU4YTJ3YnFtc3J1M3F4b2xnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.webp">
 </div>
 
 <div id="badges" align="center">
