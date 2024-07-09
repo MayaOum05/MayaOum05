@@ -27,7 +27,7 @@
 <div id="learning">
 	<h2>📝 Currently Learning:</h2>
 	<ul>
-		<li>Pygame</li>
+		<li>React js</li>
 	</ul>
 </div>
 
