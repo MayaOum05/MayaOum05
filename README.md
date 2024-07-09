@@ -1,9 +1,9 @@
 <div id="header" align="center"> 
-	<h1>Hello, I'm Maya!</h1>
+	<h1>👋 Hello I'm Maya!</h1>
 </div>
 
 <div id="header" align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHh4eWNrcTk0dmljenA0MW01Z2tua3hxczliN25jenU2eDcyeDEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE1YWw2enNjbWlqeDFxcTVjNXRsNzU4YTJ3YnFtc3J1M3F4b2xnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.webp">
 </div>
 
 <div id="badges" align="center">
@@ -16,11 +16,11 @@
 <div>
 	<h2>👩‍💻 About Me:</h2>
 
- <p>I'm a tech enthusiast who loves seeking out complex issues and resolving them as efficiently as possible. Utilizing creativity to motivate my learning, I aspire to create software that creates a lasting positive impression onto those who find my work. Between game development and web development, I enjoy all areas of development especially when it comes to creating something original that I can pour my heart and soul into.</p>
+ <p>I'm a tech enthusiast who loves seeking out complex issues and resolving them as efficiently as possible. Utilizing creativity to motivate my learning, I aspire to create software that creates a lasting positive impression onto those who find my work. Between game development and web development, I enjoy all areas of programming especially when it comes to creating something original that I can pour my heart and soul into.</p>
  <ul>
-	 <li>I'm a college student studying Computer Science in Florida</li>
-	 <li>I'm currently learning front-end development with intentions to learn back-end.</li>
-	 <li>I love designing, programming, and learning new tools to help with programming</li
+	 <li>I'm a college student studying Computer Science at Valencia College 👩‍🎓</li>
+	 <li>I'm a car enthusiast and I own a 1994 Mazda Miata and a 2018 Subaru BRZ 🚙</li>
+	 <li>I have two cats, Trinket and Rice who motivate me to be able to spoil them with everything I can 🐈‍⬛</li>
  </ul>
 </div>
 
