@@ -28,6 +28,7 @@
 	<h2>📝 Currently Learning:</h2>
 	<ul>
 		<li>React js</li>
+		<li>SQL</li>
 	</ul>
 </div>
 
