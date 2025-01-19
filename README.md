@@ -48,6 +48,10 @@
 		<li>Bootstrap</li>
 		<li>Visual Studio Code</li>
 		<li>Github</li>
+		<li>React</li>
+		<li>Next.js</li>
+		<li>Streamlit</li>
+		<li>Firebase Firestore</li>
 	</ul>
 
 </div>
