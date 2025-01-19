@@ -16,10 +16,10 @@
 <div>
 	<h2>👩‍💻 About Me:</h2>
 
- <p>I'm a tech enthusiast who loves seeking out complex issues and resolving them as efficiently as possible. Utilizing creativity to motivate my learning, I aspire to create software that creates a lasting positive impression onto those who find my work. Between game development and web development, I enjoy all areas of programming especially when it comes to creating something original that I can pour my heart and soul into.</p>
+ <p>I am a software developer who loves solving problems and building useful tools. I have experience with Python, JavaScript, and frameworks like React and Next.js, and I enjoy creating simple and easy-to-use applications. I’m always eager to learn new things and improve my skills. In my free time, I like crochet, cooking, reading, and learning through research. My goal is to use technology to help others and make a positive impact.</p>
  <ul>
-	 <li>I'm a college student studying Computer Science at Valencia College 👩‍🎓</li>
-	 <li>I'm a car enthusiast and I own a 1994 Mazda Miata and a 2018 Subaru BRZ 🚙</li>
+	 <li>I'm a Computer Science Major at Valencia College 👩‍🎓</li>
+	 <li>I have too many hobbies, but my main ones currently are collecting stickers and journaling.</li>
 	 <li>I have two cats, Trinket and Rice who motivate me to be able to spoil them with everything I can 🐈‍⬛</li>
  </ul>
 </div>
@@ -28,6 +28,7 @@
 	<h2>📝 Currently Learning:</h2>
 	<ul>
 		<li>Java</li>
+		<li>Next.js</li>
 	</ul>
 </div>
 
@@ -37,6 +38,8 @@
 		<img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 		<img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 		<img width="50pc" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+		<img width="50pc" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+            	<img width="50pc" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
 <div>
