@@ -16,7 +16,7 @@
 <div>
 	<h2>👩‍💻 About Me:</h2>
 
- <p>I am a software developer who loves solving problems and building useful tools. I have experience with Python, JavaScript, and frameworks like React and Next.js, and I enjoy creating simple and easy-to-use applications. I’m always eager to learn new things and improve my skills. In my free time, I like crochet, cooking, reading, and learning through research. My goal is to use technology to help others and make a positive impact.</p>
+ <p>I am a software engineer who loves solving problems and building useful tools. I have experience with Python, JavaScript, and frameworks like React and Next.js, and I enjoy creating simple and easy-to-use applications. I’m always eager to learn new things and improve my skills. In my free time, I like crochet, cooking, reading, and learning through research. My goal is to use technology to help others and make a positive impact.</p>
  <ul>
 	 <li>I have too many hobbies, but my main ones currently are collecting stickers and journaling.</li>
 	 <li>I have two cats, Trinket and Rice who motivate me to be able to spoil them with everything I can 🐈‍⬛</li>
