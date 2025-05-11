@@ -16,10 +16,12 @@
 <div>
 	<h2>👩‍💻 About Me:</h2>
 
- <p>I am a software engineer who loves solving problems and building useful tools. I have experience with Python, JavaScript, and frameworks like React and Next.js, and I enjoy creating simple and easy-to-use applications. I’m always eager to learn new things and improve my skills. In my free time, I like crochet, cooking, reading, and learning through research. My goal is to use technology to help others and make a positive impact.</p>
+ <p>I am an aspiring software engineer who loves putting my brain to work and building silly things. I have experience with Python, JavaScript, and frameworks like React and Next.js. I really enjoy creating simple and easy-to-use applications that allow me to express my creativity and display my techncial prowess 😎.</p>
+
+ <p>One of my lifetime goals is to create something that can aid in cancer research.</p>
  <ul>
-	 <li>I have too many hobbies, but my main ones currently are collecting stickers and journaling.</li>
-	 <li>I have two cats, Trinket and Rice who motivate me to be able to spoil them with everything I can 🐈‍⬛</li>
+	 <li>I have too many hobbies, but my main hobbies are currently reading historical fantasy books and researching random topics</li>
+	 <li>I have two cats, Trinket and Rice who motivate me to be able to spoil them with everything I can </li>
  </ul>
 </div>
 
@@ -27,6 +29,7 @@
 	<h2>📝 Currently Learning:</h2>
 	<ul>
 		<li>Java</li>
+		<li>Machine Learning Fundamentals</li>
 	</ul>
 </div>
 
@@ -50,6 +53,7 @@
 		<li>Next.js</li>
 		<li>Streamlit</li>
 		<li>Firebase Firestore</li>
+		<li>Scikit-Learn</li>
 	</ul>
 
 </div>
