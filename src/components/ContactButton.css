@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+
+button {
+    background-color: #664B72;
+    width: 180px;
+    height: 60px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.5em;
+    font-weight: 200;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+button :active {
+    color: #fff;
+    background-color: #4c3b58;
+}

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400;700&display=swap');
+
+
+body {
+  background-image: linear-gradient(100deg, #1C1C20, #2C1537);
+  font-family: 'Roboto Mono', monospace;
+  color: #fff;
+  padding: 0;
+  margin: 1.5em;
+}
+
+.title {
+  color: #fff;
+
+}
+
+.title-name {
+  font-size: 4em;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .title-name {
+    font-size: 2em;
+  }
+}
+
+.title-sub {
+  font-size: 1.5em;
+}
+
+.education {
+  color: #fff;
+  font-weight: 200;
+}
+
+p {
+  font-weight: 100;;
+}
