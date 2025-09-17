@@ -60,8 +60,8 @@
 
 <div id="stats" align="Center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkysaturn&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silkysaturn&layout=compact&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaOum05&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayaOum05&layout=compact&show_icons=true&theme=dracula)
 
 </div>
 
