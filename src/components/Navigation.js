@@ -5,11 +5,10 @@ import "./ContactButton.css";
 function ContactButton () {
     return (
         <div>
-            <button link="maya.oum02@gmail.com">Contact</button>
+            <a href="mailto:maya.oum02@gmail.com">Contact</a>
         </div>
     )
 }
-
 
 
 function Navigation () {
@@ -18,9 +17,9 @@ function Navigation () {
 
             <nav className="navbar">
 
-                <a href="#resume">Resume</a>
-                <a href="#linkedin">LinkedIn</a>
-                <a href="#github">Github</a>
+                <a href="https://drive.google.com/file/d/1hdA1D9CcZRDY1panYFohp_GrG-rNjg8j/view?usp=sharing">Resume</a>
+                <a href="https://www.linkedin.com/in/maya-oum/">LinkedIn</a>
+                <a href="https://github.com/MayaOum05">Github</a>
                 
                 <ContactButton />
                 
