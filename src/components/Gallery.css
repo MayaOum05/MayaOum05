@@ -1,0 +1,43 @@
+.gallery {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery-img {
+  width: 500px;
+  max-height: 500px;
+  object-fit: contain;
+  border-radius: 12px;
+  transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: #D9D9D9;
+  font-size: 2.5rem;
+  cursor: pointer;
+  z-index: 2;
+  padding: 0.3rem 0.6rem;
+  transition: color 0.3s;
+}
+
+.arrow:hover {
+  color: #664B72;
+}
+
+.arrow.left {
+  left: -2rem;
+}
+
+.arrow.right {
+  right: -2rem;
+}

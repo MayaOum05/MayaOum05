@@ -1,5 +1,7 @@
 import './App.css';
 import Navigation from './components/Navigation';
+import Gallery from "./components/Gallery";
+
 
 function App() {
   return (
@@ -9,7 +11,7 @@ function App() {
 
       <div className="title">
         <div className="title-text">
-          <h1 className="title-name">Hey, I'm Maya.</h1>
+          <h1 className="title-name">Hi, I'm Maya.</h1>
           <p className="title-sub">Aspiring Software Engineer & Computer Science Student</p>
         </div>
         
@@ -21,9 +23,11 @@ function App() {
         
       </div>
 
-      <h2 className='about-me'>About Me</h2>
-      <p></p>
-
+      <div className='about-me'>
+        <p>
+          I’m Maya Oum, a Computer Science student at the University of Central Florida with a passion for building software and creating video games. I’ve participated in hackathons, volunteered as a frontend developer for a nonprofit, and served as Secretary for Valencia College’s "Source Code" IT & Programming Club. Outside of coding, I’m a big gamer and love designing projects inspired by the games I enjoy.
+        </p>
+      </div>
 
       
     </div>
