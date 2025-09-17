@@ -1,6 +1,6 @@
 import './App.css';
 import Navigation from './components/Navigation';
-import Gallery from "./components/Gallery";
+import Experience from './components/Experience';
 
 
 function App() {
@@ -29,7 +29,7 @@ function App() {
         </p>
       </div>
 
-      
+      <Experience />
     </div>
   );
 }
