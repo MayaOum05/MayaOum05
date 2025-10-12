@@ -8,7 +8,6 @@ export default function Experience() {
       org: "TechElevate",
       date: "Jan 2025 – May 2025 & June 2025 - August 2025",
       desc: "Built a secure Firebase Authentication SDK-based login system supporting 100+ users, integrated with cloud backend services. Designed and deployed responsive React + TypeScript components connected to real-time APIs, and optimized authentication workflows to boost performance and scalability.",
-      img: "/experience/techelevate.png"
     },
     
   ];

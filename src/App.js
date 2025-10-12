@@ -1,6 +1,7 @@
 import './App.css';
 import Navigation from './components/Navigation';
 import Experience from './components/Experience';
+import Gallery from './components/Gallery';
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
       </div>
 
       <Experience />
+      <Gallery />
     </div>
   );
 }
