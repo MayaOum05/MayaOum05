@@ -16,7 +16,7 @@
 <div>
 	<h2>👩‍💻 About Me:</h2>
 
- <p>I am an aspiring software engineer who loves putting my brain to work and building silly things. I have experience with Python, JavaScript, and frameworks like React and Next.js. I really enjoy creating simple and easy-to-use applications that allow me to express my creativity and display my techncial prowess 😎.</p>
+ <p>I am an aspiring Cybersecurity Analyst who loves putting my brain to work and breaking systems.</p>
 
  <p>One of my lifetime goals is to create something that can aid in cancer research.</p>
  <ul>
@@ -26,10 +26,9 @@
 </div>
 
 <div id="learning">
-	<h2>📝 Currently Learning:</h2>
+	<h2>📝 Currently Studying:</h2>
 	<ul>
-		<li>Java</li>
-		<li>Machine Learning Fundamentals</li>
+		<li>CompTIA Security+</li>
 	</ul>
 </div>
 
