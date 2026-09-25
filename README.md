@@ -1,5 +1,6 @@
 <div id="header" align="center"> 
 	<h1>👋 Hello I'm Maya!</h1>
+	<h2>I'm a cybersecurity analyst intern, studying Information Technology at the University of Central Florida, with a minor in Secure Computing and Networks</h2>
 </div>
 
 <div id="header" align="center">
@@ -18,17 +19,17 @@
 
  <p>I am an aspiring Cybersecurity Analyst who loves putting my brain to work and breaking systems.</p>
 
- <p>One of my lifetime goals is to create something that can aid in cancer research.</p>
+ <p>My professional goal is to become a cybersecurity analyst and work in the healthcare industry to protect sensitive systems.</p>
  <ul>
-	 <li>I have too many hobbies, but my main hobbies are currently reading historical fantasy books and researching random topics</li>
-	 <li>I have two cats, Trinket and Rice who motivate me to be able to spoil them with everything I can </li>
+	 <li>I have too many hobbies, but my main hobbies are currently reading historical fantasy books and researching random topics.</li>
+	 <li>I have four cats, Rice, Trinket, Sam-I-Am, and a foster cat Stitch. </li>
  </ul>
 </div>
 
 <div id="learning">
 	<h2>📝 Currently Studying:</h2>
 	<ul>
-		<li>CompTIA Security+</li>
+		<li>CompTIA Network+</li>
 	</ul>
 </div>
 
